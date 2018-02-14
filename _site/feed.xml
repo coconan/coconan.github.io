@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>coconan&#39;s site</title>
+    <description>coconan&#39;s personal blog
+</description>
+    <link>http://coconan.me/</link>
+    <atom:link href="http://coconan.me/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Wed, 14 Feb 2018 05:21:28 -0800</pubDate>
+    <lastBuildDate>Wed, 14 Feb 2018 05:21:28 -0800</lastBuildDate>
+    <generator>Jekyll v3.0.1</generator>
+    
+      <item>
+        <title>First Blog!</title>
+        <description>&lt;p&gt;Got my own site finally! Good luck, 2018!&lt;/p&gt;
+
+&lt;p&gt;my github &lt;a href=&quot;https://github.com/coconan&quot;&gt;coconan&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;my site &lt;a href=&quot;http://coconan.me&quot;&gt;blog&lt;/a&gt;&lt;/p&gt;
+
+</description>
+        <pubDate>Wed, 14 Feb 2018 05:06:24 -0800</pubDate>
+        <link>http://coconan.me/blog/2018/02/14/first-blog.html</link>
+        <guid isPermaLink="true">http://coconan.me/blog/2018/02/14/first-blog.html</guid>
+        
+        
+        <category>blog</category>
+        
+      </item>
+    
+  </channel>
+</rss>
